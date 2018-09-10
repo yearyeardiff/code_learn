@@ -1,0 +1,2 @@
+07:37:00.550 [Thread-7] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5e1fa5b1: startup date [Wed Aug 29 11:00:29 CST 2018]; root of context hierarchy
+07:37:00.600 [Thread-7] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
