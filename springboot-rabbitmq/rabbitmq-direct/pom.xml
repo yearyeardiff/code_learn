@@ -14,6 +14,10 @@
     <modules>
         <module>direct-consumer</module>
         <module>direct-provider</module>
+        <module>durable-direct-consumer</module>
+        <module>durable-direct-provider</module>
+        <module>ack-direct-consumer</module>
+        <module>ack-direct-provider</module>
     </modules>
 
 
