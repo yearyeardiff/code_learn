@@ -1,0 +1,110 @@
+			 IN SUMMARY OF [cmapi.mwee.cn.conf]
+
+		the number of http server: 2
+
+		the number of [cmapi.mwee.cn]'location: 4
+		the number of [msk]'s ip/port: 2
+		the number of [mboss]'s ip/port: 2
+		the number of [mboss_pos]'s ip/port: 2
+		the number of [mboss_erp]'s ip/port: 2
+
+		the number of [kl.test.9now.net]'location: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [kl.test.9now.net.conf]
+
+		the number of http server: 2
+
+		the number of [kl.test.9now.net]'location: 2
+		the number of [kl.test.9now.net]'location: 2
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+
+		the number of [kl.test.9now.net]'location: 2
+		the number of [kl.test.9now.net]'location: 2
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [cmapi.mwee.cn.conf]
+
+		the number of http server: 2
+
+		the number of [cmapi.mwee.cn]'location: 4
+		the number of [msk]'s ip/port: 2
+		the number of [mboss]'s ip/port: 2
+		the number of [mboss_pos]'s ip/port: 2
+		the number of [mboss_erp]'s ip/port: 2
+
+		the number of [kl.test.9now.net]'location: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [kl.test.9now.net.conf]
+
+		the number of http server: 2
+
+		the number of [kl.test.9now.net]'location: 2
+		the number of [kl.test.9now.net]'location: 2
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+
+		the number of [kl.test.9now.net]'location: 2
+		the number of [kl.test.9now.net]'location: 2
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [cmapi.mwee.cn.conf]
+
+		the number of http server: 2
+
+		the number of [cmapi.mwee.cn]'location: 4
+		the number of [msk]'s ip/port: 2
+		the number of [mboss]'s ip/port: 2
+		the number of [mboss_pos]'s ip/port: 2
+		the number of [mboss_erp]'s ip/port: 2
+
+		the number of [kl.test.9now.net]'location: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [kl.test.9now.net.conf]
+
+		the number of http server: 1
+
+		the number of [kl.test.9now.net]'location: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [cmapi.mwee.cn.conf]
+
+		the number of http server: 2
+
+		the number of [cmapi.mwee.cn]'location: 4
+		the number of [msk]'s ip/port: 2
+		the number of [mboss]'s ip/port: 2
+		the number of [mboss_pos]'s ip/port: 2
+		the number of [mboss_erp]'s ip/port: 2
+
+		the number of [kl.test.9now.net]'location: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
+			 IN SUMMARY OF [kl.test.9now.net.conf]
+
+		the number of http server: 1
+
+		the number of [kl.test.9now.net]'location: 1
+		the number of [-default-]'s ip/port: 1
+
+---------------------------------------
