@@ -476,7 +476,7 @@ function get_http_server_infos(){
 function write_http_server_sql(){
 
     comments="-- -------------${server_name}---------${filename}---------------"
-    server_sql="insert into c_host(host,gateway_id,host_desc,enable) select '${server_name}',cg.id,'${default_host_desc}','1' from c_gateway cg where cg.gateway_code = '${default_gateway_name}';"
+    server_sql="insert into c_host(host,gateway_id,host_desc,enable) select '${item_http_server}',cg.id,'${default_host_desc}','1' from c_gateway cg where cg.gateway_code = '${default_gateway_name}';"
 
     echo -e "" >> ${sql_file_name}
     echo -e "$comments" >> ${sql_file_name}
@@ -495,7 +495,7 @@ function write_server_location_sql(){
 }
 
 function write_ip_and_port_sql(){
-    ip_and_port_sql="INSERT INTO c_group_target (group_id, host, port, weight) SELECT ap.id,'${ip}','${port}',${weight} FROM c_api_group ap JOIN c_host ch ON ap.host_id=ch.id WHERE ch.host='${server_name}';"
+    ip_and_port_sql="INSERT INTO c_group_target (group_id, host, port, weight) SELECT ap.id,'${ip}','${port}',${weight} FROM c_api_group ap JOIN c_host ch ON ap.host_id=ch.id WHERE ch.host='${server_name}' and and ap.group_context='${location_name}';"
     echo -e "$ip_and_port_sql" >> ${sql_file_name}
 }
 
